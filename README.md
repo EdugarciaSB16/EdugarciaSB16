@@ -1,5 +1,9 @@
 ![Image of Yaktocat](https://res.cloudinary.com/dxo4hpxro/image/upload/v1621898717/back/github-back_ypepuv.png)
 
+* 👨‍💻 Javascript (ES6), React, NodeJS, ExpressJS, MongoDB, Mysql, HTML, CSS
+* 😎 Checkout my repositories
+* ⭐️ Contact me [Linkedln](https://www.linkedin.com/in/eduardo-garcia-01/)
+
 <!--
 **EdugarciaSB16/EdugarciaSB16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
