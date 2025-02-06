@@ -1,10 +1,8 @@
-### 🚀 Hey there! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Eduardo, a passionate Full Stack Developer.</h1>
 
-
----
+<img src="https://github.com/EdugarciaSB16/EdugarciaSB16/blob/main/avatar.png" width="300" height="300" />
 
 ### 👨‍💻 About Me
-
 I'm a **Full Stack Developer** with **4 years of experience** in building high-performance applications. I specialize in **JavaScript technologies** and have a strong focus on creating scalable, efficient, and user-friendly solutions. Passionate about coding, problem-solving, and continuously improving my development skills.
 
 ---
