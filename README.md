@@ -3,7 +3,7 @@
 <img src="https://github.com/EdugarciaSB16/EdugarciaSB16/blob/main/avatar.png" width="300" height="300" />
 
 ### 👨‍💻 About Me
-I'm a **Full Stack Developer** with **4 years of experience** in building high-performance applications. I specialize in **JavaScript technologies** and have a strong focus on creating scalable, efficient, and user-friendly solutions. Passionate about coding, problem-solving, and continuously improving my development skills.
+I'm a **Full Stack Developer** with **4 years of experience** in building high-performance applications. I specialize in **JavaScript technologies** and have a strong focus on creating scalable, efficient, and user-friendly solutions. Passionate about coding, problem-solving, and continuously improving my development skills. Let’s connect and craft the digital future together!
 
 ---
 
@@ -25,6 +25,21 @@ I'm a **Full Stack Developer** with **4 years of experience** in building high-p
 ---
 
 ### 🌠 My Projects
+
+🚀 **[Davitri UI](https://overture.life/davitri)**  
+*A confidential project developed at Overture Life, DaVitri UI is an intuitive interface designed to operate a device that automates vitrification and thawing processes in embryology labs. Developed with React, TypeScript, Tailwind, and WebSockets*
+
+🧠 **[Brainwave](https://brainwave-website-fawn.vercel.app/)**  
+*Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.*  
+
+💥 **[Zentry](https://zentry-web-one.vercel.app/)**  
+*Build a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsivenes.*  
+
+📱 **[iPhone Showcase](https://portfolio-edugarciasb16-dev.vercel.app/)**  
+*This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.*  
+
+🩺 **[Metabolife](https://portfolio-edugarciasb16-dev.vercel.app/)**  
+*A confidential project at Overture Life, Metabolife is a clinical management platform that enhances efficiency in healthcare facilities by automating processes and optimizing workflows. Built with a modern tech stack, it provides seamless patient data management, scheduling, and real-time insights to improve decision-making and operational performance.* 
 
 ### 📬 Connect With Me
 
