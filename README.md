@@ -26,6 +26,9 @@ I'm a **Full Stack Developer** with **4 years of experience** in building high-p
 
 ### 🌠 My Projects
 
+👨‍💻 **[My Portfolio](https://portfolio-edugarciasb16-dev.vercel.app/)**  
+**
+
 🚀 **[Davitri UI](https://overture.life/davitri)**  
 *A confidential project developed at Overture Life, DaVitri UI is an intuitive interface designed to operate a device that automates vitrification and thawing processes in embryology labs. Developed with React, TypeScript, Tailwind, and WebSockets*
 
