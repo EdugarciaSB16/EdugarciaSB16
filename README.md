@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** with **4 years of experience** in building high-p
 ### 🌠 My Projects
 
 👨‍💻 **[My Portfolio](https://portfolio-edugarciasb16-dev.vercel.app/)**  
-**
+*This is a modern and interactive developer portfolio built with Next.js and TailwindCSS. It showcases a seamless blend of smooth animations powered by Motion and an intuitive user experience. The portfolio highlights personal projects, skills, and experience while maintaining a minimal and elegant design. It also includes a dynamic project showcase with interactive previews and links to live demos and repositories.*
 
 🚀 **[Davitri UI](https://overture.life/davitri)**  
 *A confidential project developed at Overture Life, DaVitri UI is an intuitive interface designed to operate a device that automates vitrification and thawing processes in embryology labs. Developed with React, TypeScript, Tailwind, and WebSockets*
