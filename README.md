@@ -3,6 +3,7 @@
 <img src="https://github.com/EdugarciaSB16/EdugarciaSB16/blob/main/avatar.png" width="300" height="300" />
 
 ### 👨‍💻 About Me
+
 I'm a **Full Stack Developer** with **4 years of experience** in building high-performance applications. I specialize in **JavaScript technologies** and have a strong focus on creating scalable, efficient, and user-friendly solutions. Passionate about coding, problem-solving, and continuously improving my development skills.
 
 ---
@@ -25,6 +26,41 @@ I'm a **Full Stack Developer** with **4 years of experience** in building high-p
 ---
 
 ### 🌠 My Projects
+
+#### 📚 University Library
+
+A production-grade platform for managing a university library. Includes book borrowing with reminders, admin panel, role-based access, and a beautiful UI.  
+🔗 [Live Demo](https://university-library-two.vercel.app/sign-in)
+
+#### 🧪 DaVitri UI
+
+An advanced real-time interface to control a cryopreservation device in embryology labs. Built with React and WebSockets for seamless device interaction.  
+🔗 [Live Preview (Company)](https://overture.life/davitri)
+
+#### 🧠 Brainwave
+
+A modern and elegant landing page with smooth GSAP animations and clean UI. Ideal as a UI/UX reference.  
+🔗 [Live Site](https://brainwave-website-fawn.vercel.app/) · [GitHub](https://github.com/EdugarciaSB16/brainwave_website)
+
+#### ✨ Zentry
+
+A scroll-animated showcase with luxurious transitions, rich media storytelling, and refined UI design.  
+🔗 [Live Site](https://zentry-web-one.vercel.app/) · [GitHub](https://github.com/EdugarciaSB16/Zentry-web)
+
+#### 🍎 iPhone 15 Clone
+
+Clone of Apple’s iPhone 15 Pro page using GSAP and Three.js for product visualization in 3D.  
+🔗 [Live Site](https://apple-website-seven-mauve.vercel.app/) · [GitHub](https://github.com/EdugarciaSB16/apple_website)
+
+#### 🧬 Metabolife
+
+Full-stack clinical management app for patient records, workflows, and reports. Real-time insights, secure auth, and responsive UI.  
+🔗 [Live App (Company)](https://overture.life/mz)
+
+#### 💼 Portfolio
+
+This is a modern and interactive developer portfolio built with Next.js and TailwindCSS. It showcases a seamless blend of smooth animations powered by Motion and an intuitive user experience. The portfolio highlights personal projects, skills, and experience while maintaining a minimal and elegant design.  
+🔗 [Live Portfolio](https://portfolio-edugarciasb16-dev.vercel.app/)
 
 ### 📬 Connect With Me
 
@@ -49,4 +85,3 @@ I'm a **Full Stack Developer** with **4 years of experience** in building high-p
 ![Space Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 🚀 **Let's build something OUT OF THIS WORLD!** 🌠
-
